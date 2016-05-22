@@ -1,0 +1,28 @@
+name: '47 Media '
+favicon: null
+layout_spectrum: 0.1608736109919846
+typography_spectrum: 0.7315937678795308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4792901282198727
+  lightness: 0.593782193493098
+  saturation: 0.9945958701428026
+  rhythmicContrast: 0.49717969889752567
+purpose: []
