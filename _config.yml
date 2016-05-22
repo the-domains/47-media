@@ -2,6 +2,7 @@ name: '47 Media '
 favicon: null
 layout_spectrum: 0.1608736109919846
 typography_spectrum: 0.7315937678795308
+title: '47media '
 cta:
   domain: null
   bucket: null
